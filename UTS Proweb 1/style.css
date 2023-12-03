@@ -1,0 +1,18 @@
+
+.container-with-bg {
+    background-image: url('https://png.pngtree.com/background/20230519/original/pngtree-an-image-showing-a-processor-on-top-of-a-computer-board-picture-image_2669601.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+#logbg {
+    background-image: url('images/imagelogin.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#regbg {
+  background-image: url('images/imageregister.avif');
+  background-size: cover;
+  background-position: center;
+}
